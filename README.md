@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">Hi, I’m Azhan! I’m passionate about technology, DevOps, and cloud computing, and I enjoy exploring tools that help automate workflows and improve efficiency. I have a strong interest in version control, cloud infrastructure, and CI/CD pipelines, and I’m currently focusing on mastering Git, AWS, Azure, Google Cloud (GCP), and automation practices. I have successfully cleared the **HashiCorp Terraform Associate certification**, which has strengthened my skills in infrastructure as code and cloud provisioning. Through my GitHub, I share projects, experiments, and learnings as I work towards my goal of becoming a skilled DevOps Engineer and contributing to open-source communities.    <br>               <br><br>                                                                                             🌐 Connect with Me :<br> [![LinkedIn](https://www.linkedin.com/in/azhan-ahmad-5191a931b/<br>). <br><br>## 🎓 Certification  <br>[![Terraform Associate](https://www.credly.com/earner/earned/share/e7d8708c-6805-428b-b208-3ba5a5a84afa)</p>
+<p align="left">Hi, I’m Azhan! I’m passionate about technology, DevOps, and cloud computing, and I enjoy exploring tools that help automate workflows and improve efficiency. I have a strong interest in version control, cloud infrastructure, and CI/CD pipelines, and I’m currently focusing on mastering Git, AWS, Azure, Google Cloud (GCP), and automation practices. I have successfully cleared the **HashiCorp Terraform Associate certification**, which has strengthened my skills in infrastructure as code and cloud provisioning. Through my GitHub, I share projects, experiments, and learnings as I work towards my goal of becoming a skilled DevOps Engineer and contributing to open-source communities.    <br>       
+  <br><br> 🌐 Connect with Me :<br> [![LinkedIn](https://www.linkedin.com/in/azhan-ahmad-5191a931b/). <br>
+  <br><br>## 🎓 Certification  <br>[![Terraform Associate](https://www.credly.com/earner/earned/share/e7d8708c-6805-428b-b208-3ba5a5a84afa)</p>
 
 ###
 
